@@ -4,3 +4,4 @@
 *.sh
 cellular_automata
 out/
+.DS_Store
